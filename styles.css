@@ -7,17 +7,13 @@
 }
 /*prettier-ignore*/
 p, h5, h6 {
-          margin: 0;
-        }
+  margin: 0;
+}
 /*prettier-ignore*/
 p, h5 {
-          color: #84858a;
-        }
+  color: #84858a;
+}
 hr {
-  /* color: #ced0d4;
-          border-style: inset;
-          border-width: 1px;
-          margin: 0.5em auto; */
   width: 90%;
 }
 a {
@@ -91,8 +87,8 @@ main {
 }
 /*prettier-ignore*/
 .left-sidebar div, .contacts-list div {
-          cursor: pointer;
-        }
+  cursor: pointer;
+}
 .left-sidebar div {
   padding: 0.5rem 2rem;
 }
@@ -145,8 +141,8 @@ main {
 }
 /*prettier-ignore*/
 .my-story a p, .story a p {
-          font-weight: bold;
-        }
+  font-weight: bold;
+}
 .my-story a p {
   color: black;
 }
@@ -258,11 +254,11 @@ main {
 }
 /*prettier-ignore*/
 .propaganda, .contacts-header {
-          padding: 0.5rem;
-          margin: 0.5rem;
-          display: flex;
-          align-items: center;
-      }
+  padding: 0.5rem;
+  margin: 0.5rem;
+  display: flex;
+  align-items: center;
+}
 .propaganda {
   cursor: pointer;
 }
